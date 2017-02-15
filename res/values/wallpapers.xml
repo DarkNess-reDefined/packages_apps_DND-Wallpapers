@@ -11,12 +11,10 @@
     <string-array name="wallpapers" translatable="false">
     <item>wallpaper_0</item>
     <item>wallpaper_1</item>
-    <item>wallpaper_2</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-    <item>Ribbon</item>
-    <item>Teeth</item>
-    <item>V</item>
+    <item>Razors by Kishan</item>
+    <item>Wolf by Kishan</item>
     </string-array>
 </resources>
